@@ -1,7 +1,7 @@
 # DiceRoller
 A simple discord bot that rolls dice. 
 
-##How to use
+## How to use
 In the discord channel with the bot present, type:
 ```
 /roll dX
